@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "Mirrorer",
+  "author": "Begench Geldyev <begenchgeldyev@gmail.com>",
+  "version": "1.0.0",
+  "main": "mirrorer.sh",
+  "license": "ISC"
+}
